@@ -15,7 +15,7 @@ public class HelloJava {
         else if(gameOver = true) {
              System.out.println(myScore);
          }
-//anoohya//
+//anoohya
 //sridhar//
 
 
