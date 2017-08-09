@@ -16,7 +16,7 @@ public class HelloJava {
              System.out.println(myScore);
          }
 //anoohya
-//sridhar//
+//sridhar
 
 
 
