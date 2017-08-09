@@ -7,7 +7,7 @@ public class HelloJava {
         int myScore = 10000;
         int levelCompleted = 8;
         int bonus = 200;
-
+        System.out.println("GitPush");
         for(int i=0;i<2;i++) {
             if (gameOver == false) {
                 int finalScore = myScore + (levelCompleted * bonus);
