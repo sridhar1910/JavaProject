@@ -8,13 +8,14 @@ public class HelloJava {
         int levelCompleted = 8;
         int bonus = 200;
 
-         if(gameOver == false){
-             int finalScore = myScore + (levelCompleted * bonus);
-            System.out.println("Total was " + finalScore);
+        for(int i=0;i<2;i++) {
+            if (gameOver == false) {
+                int finalScore = myScore + (levelCompleted * bonus);
+                System.out.println("Total was " + finalScore);
+            } else if (gameOver = true) {
+                System.out.println(myScore);
+            }
         }
-        else if(gameOver = true) {
-             System.out.println(myScore);
-         }
 //anoohya
 //sridhar
 //surya
